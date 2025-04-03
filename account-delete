@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Delete Your IntelliX Account - Epteck</title>
+</head>
+<body>
+  <h1>Delete Your IntelliX Account</h1>
+  <p>If you have an IntelliX account and wish to delete it, please follow the instructions below.</p>
+
+  <h2>How to Request Deletion</h2>
+  <p>Email us at <strong>support@epteck.com</strong> from your registered account email with the subject: <em>“Delete My IntelliX Account”</em>.</p>
+
+  <h2>What Will Be Deleted?</h2>
+  <ul>
+    <li>Your account information (name, email, password)</li>
+    <li>Associated IoT device configurations</li>
+    <li>Usage logs and historical data</li>
+  </ul>
+
+  <h2>Data Retention</h2>
+  <p>We do not retain any personal data after deletion. Backups are retained for up to 30 days for recovery and legal compliance.</p>
+
+  <h2>Need Help?</h2>
+  <p>Email: <a href="mailto:support@epteck.com">support@epteck.com</a></p>
+</body>
+</html>
